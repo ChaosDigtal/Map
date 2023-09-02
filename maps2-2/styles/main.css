@@ -15,7 +15,7 @@
     flex-direction: row;
     position: relative;
     flex-wrap: wrap;
-    justify-content: left;
+    justify-content: center;
 }
 .map{
     display: block;
